@@ -67,3 +67,19 @@ conda activate glioma-meth
 **Balazs Murnyak, PhD** — Molecular Biologist and Genomics Scientist  
 University of Utah  
 [LinkedIn](https://www.linkedin.com/in/balazs-murnyak-56a45a100/) | [Google Scholar](https://scholar.google.com/citations?user=dFfVIEAAAAJ)
+
+## MC3 Pan-Cancer Analysis (n=10,279)
+
+### Key findings
+- **BRCA**: Black/African American patients show significantly higher TMB (p=0.035*)
+- **LUAD**: Black/African American patients show significantly higher TMB (p=0.025*)
+- **GBM, COAD, PRAD, LAML**: No significant TMB differences by ancestry
+- Pan-cancer: No overall TMB difference by race (p>0.3)
+
+### 1000 Genomes PCA reference
+Built population structure reference using 110,401 SNPs from chr22
+across 2,504 samples (5 superpopulations: AFR, EAS, EUR, SAS, AMR)
+
+![TMB MC3](results/plots/tmb_ancestry_mc3.png)
+![Pan-cancer composition](results/plots/pancancer_race_composition.png)
+![1KG PCA](results/plots/1kg_pca.png)
