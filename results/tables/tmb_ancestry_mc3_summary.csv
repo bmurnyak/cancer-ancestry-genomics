@@ -1,0 +1,19 @@
+cancer,race,n,median_tmb,mean_tmb
+GBM,White,341,1.37,3.28
+GBM,Black/African American,41,1.24,1.9
+GBM,Asian,6,1.18,1.17
+BRCA,White,711,1.03,2.47
+BRCA,Black/African American,163,1.11,1.59
+BRCA,Asian,59,1.18,1.96
+COAD,White,206,3.16,10.74
+COAD,Black/African American,56,3.21,8.98
+COAD,Asian,11,3.0,36.28
+LUAD,White,388,5.2,7.74
+LUAD,Black/African American,53,8.95,10.05
+LUAD,Asian,8,3.29,4.85
+PRAD,White,144,0.83,1.01
+PRAD,Black/African American,7,0.95,3.14
+PRAD,Asian,2,0.74,0.74
+LAML,White,122,0.34,1.19
+LAML,Black/African American,13,0.34,0.38
+LAML,Asian,2,0.12,0.12
