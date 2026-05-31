@@ -1,0 +1,15 @@
+cancer_type,race_clean,mean,std,count
+BRCA,Asian,1.58,0.31,3
+BRCA,Black/African American,1.32,1.14,3
+BRCA,White,6.65,11.85,6
+COAD,Asian,2.66,1.64,3
+COAD,Black/African American,28.26,41.68,3
+COAD,White,9.83,14.7,5
+GBM,White,1.18,,1
+LAML,White,5.17,8.56,3
+LUAD,Asian,7.62,3.15,2
+LUAD,Black/African American,10.37,3.28,3
+LUAD,White,5.49,1.9,6
+PRAD,Asian,0.52,0.14,3
+PRAD,Black/African American,0.43,0.45,3
+PRAD,White,0.52,0.41,6

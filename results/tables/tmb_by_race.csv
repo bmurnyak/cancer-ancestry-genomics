@@ -1,0 +1,19 @@
+case_id,cancer_type,n_mutations,tmb,race_clean,ethnicity
+3caf009f-d9e0-4c57-b1d9-8eb59fc833bd,GBM,67,1.76,,
+3ed101b5-0007-4957-a25d-4cf43bde08b6,GBM,45,1.18,White,not hispanic or latino
+3eeaaef5-a3b2-478c-a88d-fc5d7342bbe1,GBM,70,1.84,,
+878f975b-94fd-4d69-b7e7-1ed3ac2ee438,BRCA,48,1.26,White,not hispanic or latino
+e4fc0909-f284-4471-866d-d8967b6adcbc,BRCA,83,2.18,White,not hispanic or latino
+e5aae05a-478e-4a55-a27c-12b2b4be302a,BRCA,39,1.03,White,not hispanic or latino
+1fd75c4d-e74c-410c-a150-814722c6c1cc,COAD,1371,36.08,White,not hispanic or latino
+e703af88-c05f-4d7b-b225-d640e4d1a2a5,COAD,100,2.63,White,not hispanic or latino
+35c295c2-37d1-44b2-87a3-1039645e5bae,COAD,3458,91.0,Not reported,not reported
+501c987e-d1eb-48a9-89eb-72a5062c90b4,LUAD,258,6.79,White,not reported
+50b2c647-aecd-4c81-af22-0d8116593552,LUAD,211,5.55,White,not hispanic or latino
+528a0fce-0719-4b19-a69d-3f18681696c5,LUAD,287,7.55,White,not hispanic or latino
+4fe004e5-49f9-4336-a690-6ebad512c813,PRAD,12,0.32,White,not hispanic or latino
+9519be01-d78d-462c-8a95-34149538afeb,PRAD,45,1.18,White,not hispanic or latino
+18e79a01-07a2-4cd5-b700-71d41724e041,PRAD,9,0.24,White,not hispanic or latino
+e78ff499-037b-450a-ac04-6fb3a9e124a4,LAML,572,15.05,White,not hispanic or latino
+4cf1e489-dd24-4227-b306-4bc5266a224c,LAML,5,0.13,White,not hispanic or latino
+69da7e4d-57d3-40d6-92af-3cd1aaf9e0ec,LAML,12,0.32,White,not hispanic or latino
