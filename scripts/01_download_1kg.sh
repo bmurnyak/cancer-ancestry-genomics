@@ -1,0 +1,4 @@
+#!/bin/bash
+cd data/reference
+wget -O 1kg_samples.panel "http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/integrated_call_samples_v3.20130502.ALL.panel"
+wget -O 1kg_chr22.vcf.gz "http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz"
